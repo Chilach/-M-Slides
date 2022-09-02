@@ -16,6 +16,10 @@ The project will be divided in three stages
   5. References.
 
 - Set slides infrastructure by compiling several images as .pdf to at least replace the beamer LaTeX package.
-- Using a third party project (manim-presentations) create a functional "animated" manim slides. 
+- Using a third party project (manim-presentations) create a functional "animated" manim slides.
+
+## Conclusions
+- We agree on set a deadline to learn git (at least the basic functional to don't use the UI), **Deadline Saturday, September 10th 2022.**
+
 
 Cheers! :D
