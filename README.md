@@ -1,25 +1,7 @@
-# -M-Slides
-## Rapporteurship [Thursday September 1st 2022]
-The project will be divided in three stages
-- Create image files first base for the templates (later will be defined the criteria).
+#[M]Slides
 
-  - Text Rules, Define:
-    1. Fonts. Italic, bold, emphasised.
-    2. Foot page, quotes.
-    3. Define Theorem, Definition aesthetic view.
-    4. Raw code (verbatim) sections.
-  
-  1. Front page.
-  2. Contents/Index.
-  3. Images (commie ducks are banned).
-  4. Equations.
-  5. References.
+The porpose of the project is create templates with contemporaneous appearance replacing beamer $\LaTex$ package
 
-- Set slides infrastructure by compiling several images as .pdf to at least replace the beamer LaTeX package.
-- Using a third party project (manim-presentations) create a functional "animated" manim slides.
+##Code Structure
 
-## Conclusions
-- We agree on set a deadline to learn git (at least the basic functional to don't use the UI), **Deadline Saturday, September 10th 2022.**
-
-
-Cheers! :D
+Here I write about code structure
